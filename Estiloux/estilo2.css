@@ -1,0 +1,45 @@
+main{background-color: aqua;}
+
+
+body{
+background-color: rgb(0, 108, 136);
+justify-content: space-around;
+
+
+}
+
+article img{
+
+height: 70px;
+width:100px;
+
+}
+article h1{
+color: rgb(0, 0, 0);
+text-transform: uppercase;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+article p {
+align-items: center;
+display: flex;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 12px;
+}
+
+
+article{ 
+
+
+width: 180px;
+height: 180px;
+margin-top: 20px;
+margin-left: 20px;
+padding: 15px;
+border-radius: 5px;
+background-color: #dee1eb;
+align-items: center;
+text-align: center;
+box-shadow: 2px 2px 5px black;
+justify-content: space;
+}

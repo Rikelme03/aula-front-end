@@ -23,6 +23,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     font-weight: 300;
+    color: white;
 }
 
 .layout-grid
@@ -36,6 +37,7 @@ h1 {
 .header-flex{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 nav{
